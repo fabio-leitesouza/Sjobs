@@ -1,0 +1,70 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background:  #339194;
+  color: #161313;
+  font-family: 'Signika Negative', sans-serif;
+  
+}
+
+.cabecalho__logo {
+  width: 70px;
+ }
+.container {
+  padding-right: 6%;
+  padding-left: 6%;
+}
+
+.painelImg {
+  width: 100%;
+}
+
+.painelImg {
+  width: 100%;
+}
+
+.conheca{
+padding: 6%;
+  background-color: #d3dbd9;
+  
+  
+}
+
+.sobre {
+  padding: 2em 4em;
+  margin: 6%;
+  background-color: #d3dbd9;
+  text-align: center;
+}
+
+.servicos {
+  margin: 6%;
+  padding-bottom: 3%;
+  
+  
+}
+
+.formulario {
+    padding: 18px;
+}
+
+.rodape{
+  
+  text-align: center;
+  color: black;
+  background-color: #d3dbd9
+}
+.link{
+  color: black;
+  text-decoration: none;
+}
+.copyright{
+  text-align: center;
+  background-color: #d3dbd9;
+}
+
+.carousel__bg{
+  background-color:  #d3dbd9;
+  padding-bottom: 5px;
+  
+}
